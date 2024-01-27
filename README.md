@@ -1,2 +1,2 @@
-# mensageria-rabbitmq
-Projeto C# com consumer e producer utilizando mensageria e RabbitMQ praticado durante as aulas da pós tech de ARQUITETURA DE SISTEMAS .NET COM AZURE - FIAP.
+# Mensageria com RabbitMQ
+Projeto C# com consumer e producer utilizando mensageria e RabbitMQ praticado durante as aulas da pós tech de Arquitetura de Sistemas .NET com Azure, na FIAP. A solution contem 3 projetos: um projeto que contém uma API sendo o produtor da mensagem, que inclui na fila do Message Broker usando exchange direct, um projeto que contém algumas entidades de exemplo que é comum entre os outros projetos, e um worker project sendo o consumidor da mensagem produzida.
